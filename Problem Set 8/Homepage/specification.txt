@@ -1,0 +1,4 @@
+HTML tags used: h1, p, nav, div, ul, li, a, button, script, meta
+CSS properties used: color, font-family, max-width, margin, padding
+JavaScript usage: Added an interactive alert button.
+Bootstrap usage: Used Bootstrap navbar and button styles.
