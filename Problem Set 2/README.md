@@ -4,11 +4,11 @@
 
 - [x] Scrabble
 
-- [x] Readability
+- [ ] Readability
 
-- [ ] Caesar
+- [x] Caesar
 
-- [x] Substitution
+- [ ] Substitution
 
 
 
