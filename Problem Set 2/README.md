@@ -2,7 +2,7 @@
 
 
 
-- [x] Lab 2: Scrabble
+- [x] Scrabble
 
 - [x] Readability
 
