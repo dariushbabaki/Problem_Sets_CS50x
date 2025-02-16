@@ -83,6 +83,3 @@ During the development of this project, I encountered several challenges:
 The **Advanced Calculator** project provides a comprehensive solution for performing basic and advanced mathematical operations. It features robust error handling, accurate computations using the C math library, and thorough unit testing to verify the correctness of each function. This project has not only honed my skills in C programming but also taught me valuable lessons about modular design, error handling, and testing in software development.
 
 This calculator can be further expanded to include additional functions, such as handling different types of units (e.g., converting between radians and degrees for trigonometric functions) or supporting more complex mathematical operations. The project lays the foundation for building more sophisticated tools in the future.
-
----
-**Note**: Please replace `<URL HERE>` with the actual URL of your video demo.
