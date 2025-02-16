@@ -16,7 +16,7 @@
 
 
 
-0. [Scrabble](https://cs50.harvard.edu/x/2025/psets/2/scrabble/)
+0. Submit [Scrabble](https://cs50.harvard.edu/x/2025/psets/2/scrabble/)
 
 1. Submit [Readability](https://cs50.harvard.edu/x/2025/psets/2/readability/)
 
