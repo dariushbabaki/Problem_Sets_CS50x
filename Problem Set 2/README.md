@@ -16,7 +16,7 @@
 
 
 
-0. [Lab 2: Scrabble](https://cs50.harvard.edu/x/2025/labs/2/#lab-2-scrabble)
+0. [Scrabble](https://cs50.harvard.edu/x/2025/psets/2/scrabble/)
 
 1. Submit [Readability](https://cs50.harvard.edu/x/2025/psets/2/readability/)
 
