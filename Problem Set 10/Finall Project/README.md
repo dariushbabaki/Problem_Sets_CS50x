@@ -1,5 +1,9 @@
 # Advanced Calculator
 #### Video Demo: <https://youtube.com/shorts/Ymf0ax5b5LE?si=S9PMPePeVQ5x0-Tm>
+
+# programming by:
+- Dariush Babaki 
+
 #### Description:
 
 The **Advanced Calculator** is a C-based project designed to provide a powerful tool for performing a variety of mathematical operations. This calculator not only supports basic arithmetic functions such as addition, subtraction, multiplication, and division, but also handles more advanced calculations like trigonometric functions (sine, cosine, tangent), logarithmic and exponential functions, square roots, and power operations. The calculator is user-friendly and performs calculations with both integer and floating-point numbers.
