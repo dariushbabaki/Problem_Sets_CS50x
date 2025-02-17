@@ -40,4 +40,4 @@
 
 3. Submit [Readability](https://cs50.harvard.edu/x/2025/psets/6/readability/) in Python
 
-4. Submit [DNA](https://cs50.harvard.edu/x/2025/psets/6/dna/) in Pythonhttps://cs50.harvard.edu/x/2025/psets/5/speller/)
+4. Submit [DNA](https://cs50.harvard.edu/x/2025/psets/6/dna/) in Python
