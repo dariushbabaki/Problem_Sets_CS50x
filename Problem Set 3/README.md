@@ -16,7 +16,7 @@
 
 
 
-0. Submit [Sort](https://cs50.harvard.edu/x/2025/labs/3/sort)
+0. Submit [Sort](https://cs50.harvard.edu/x/2025/psets/3/sort)
 
 1. Submit [Plurality](https://cs50.harvard.edu/x/2025/psets/3/plurality/)
 
