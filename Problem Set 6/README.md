@@ -24,20 +24,20 @@
 
 
 
+0.Submit Hello(https://cs50.harvard.edu/x/2025/psets/6/hello/) in Python
 
+1. Submit one of:
+
+   - [this version of Mario](https://cs50.harvard.edu/x/2025/psets/6/mario/less/) in Python, if feeling less comfortable
+
+   - [this version of Mario](https://cs50.harvard.edu/x/2025/psets/6/mario/more/) in Python, if feeling more comfortable
 
 2. Submit one of:
 
-   - [this version of Mario](https://cs50.harvard.edu/x/2022/psets/6/mario/less/) in Python, if feeling less comfortable
+   - [Cash](https://cs50.harvard.edu/x/2025/psets/6/cash/) in Python, if feeling less comfortable
 
-   - [this version of Mario](https://cs50.harvard.edu/x/2022/psets/6/mario/more/) in Python, if feeling more comfortable
+   - [Credit](https://cs50.harvard.edu/x/2025/psets/6/credit/) in Python, if feeling more comfortable
 
-3. Submit one of:
+3. Submit [Readability](https://cs50.harvard.edu/x/2025/psets/6/readability/) in Python
 
-   - [Cash](https://cs50.harvard.edu/x/2022/psets/6/cash/) in Python, if feeling less comfortable
-
-   - [Credit](https://cs50.harvard.edu/x/2022/psets/6/credit/) in Python, if feeling more comfortable
-
-4. Submit [Readability](https://cs50.harvard.edu/x/2022/psets/6/readability/) in Python
-
-5. Submit [DNA](https://cs50.harvard.edu/x/2022/psets/6/dna/) in Pythonhttps://cs50.harvard.edu/x/2022/psets/5/speller/)
+4. Submit [DNA](https://cs50.harvard.edu/x/2025/psets/6/dna/) in Pythonhttps://cs50.harvard.edu/x/2025/psets/5/speller/)
