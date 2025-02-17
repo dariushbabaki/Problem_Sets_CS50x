@@ -4,11 +4,11 @@
 
 - [x] Volume
 
-- [x] Filter (Less)
+- [ ] Filter (Less)
 
 - [x] Filter (More)
 
-- [x] Recover
+- [ ] Recover
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-0. Submit [Volume](https://cs50.harvard.edu/x/2025/psets/4/)
+0. Submit [Volume](https://cs50.harvard.edu/x/2025/psets/4/volume/)
 
 1. Submit one of:
 
