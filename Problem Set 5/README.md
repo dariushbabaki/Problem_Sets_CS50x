@@ -4,7 +4,7 @@
 
 - [x] Inheritance
 
-- [x] Speller
+- [ ] Speller
 
 
 
