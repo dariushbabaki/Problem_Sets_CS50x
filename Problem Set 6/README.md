@@ -24,7 +24,7 @@
 
 
 
-0.Submit Hello(https://cs50.harvard.edu/x/2025/psets/6/hello/) in Python
+0. Submit [Hello](https://cs50.harvard.edu/x/2025/psets/6/hello/) in Python
 
 1. Submit one of:
 
